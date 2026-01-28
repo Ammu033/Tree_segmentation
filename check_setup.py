@@ -103,7 +103,7 @@ def check_biodiv_dataset():
     print("\n🔍 Checking BioDiv-3DTrees dataset...")
     
     # Expected paths
-    laz_dir = r"C:\Users\Student\Downloads\TLS\TLS"
+    laz_dir = r"C:\Users\Student\Downloads\TLS"
     labels_csv = r"C:\Users\Student\Downloads\labels.csv"
     
     dataset_ok = True
@@ -170,7 +170,7 @@ def test_laz_reading():
     """Test if LAZ files can be read"""
     print("\n🔍 Testing LAZ file reading...")
     
-    laz_dir = r"C:\Users\Student\Downloads\TLS\TLS"
+    laz_dir = r"C:\Users\Student\Downloads\TLS"
     
     if not os.path.exists(laz_dir):
         print("   ⚠️  LAZ directory not found, skipping test")
@@ -278,7 +278,7 @@ def test_dataset_loading():
     try:
         from dataset_biodiv import BioDivTreeDataset
         
-        laz_dir = r"C:\Users\Student\Downloads\TLS\TLS"
+        laz_dir = r"C:\Users\Student\Downloads\TLS"
         labels_csv = r"C:\Users\Student\Downloads\labels.csv"
         
         if not os.path.exists(laz_dir) or not os.path.exists(labels_csv):

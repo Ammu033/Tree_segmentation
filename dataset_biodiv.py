@@ -366,7 +366,7 @@ if __name__ == "__main__":
     print("Testing BioDiv-3DTrees dataset loader...")
     
     # Update these paths to match your setup
-    laz_dir = r"C:\Users\Student\Downloads\TLS\TLS"
+    laz_dir = r"C:\Users\Student\Downloads\TLS"
     labels_csv = r"C:\Users\Student\Downloads\labels.csv"
     
     if os.path.exists(laz_dir) and os.path.exists(labels_csv):

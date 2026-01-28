@@ -246,7 +246,7 @@ def main():
     # ========================================================================
     config = {
         # DATA PATHS - UPDATE THESE!
-        'laz_dir': r'C:\Users\Student\Downloads\TLS\TLS',  # Path to LAZ files
+        'laz_dir': r'C:\Users\Student\Downloads\TLS',  # Path to LAZ files
         'labels_csv': r'C:\Users\Student\Downloads\labels.csv',  # Path to labels CSV
         
         # MODEL CONFIGURATION

@@ -1,0 +1,22 @@
+First 10 Trees - Original Point Clouds
+======================================================================
+
+Dataset statistics:
+   Total trees:      10
+   Total points:     15,352,070
+   Avg points/tree:  1,535,207
+   Avg tree height:  35.2m
+
+Individual trees:
+   #   Filename                           Points   Height
+   --- ------------------------------ ---------- --------
+   1   AEW03_GD_104_TLS.laz              682,630    27.4m
+   2   AEW03_GD_105_TLS.laz            1,049,418    35.6m
+   3   AEW03_GD_107_TLS.laz            2,127,486    38.4m
+   4   AEW03_GD_108_TLS.laz            2,006,128    39.0m
+   5   AEW03_GD_113_TLS.laz            3,440,870    37.2m
+   6   AEW03_GD_114_TLS.laz              908,173    32.0m
+   7   AEW03_GD_115_TLS.laz              845,981    33.5m
+   8   AEW03_GD_116_TLS.laz              480,418    34.3m
+   9   AEW03_GD_118_TLS.laz            3,064,941    37.2m
+   10  AEW03_GD_119_TLS.laz              746,025    37.2m

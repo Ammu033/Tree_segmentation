@@ -1,0 +1,12 @@
+Tree Segmentation Results
+============================================================
+Input file: C:\Users\Student\Downloads\TLS\SEW03_G_138_TLS.laz
+Model: output/checkpoints/best.pth
+Epochs trained: 4
+Best IoU: 0.5175
+Total points: 293,568
+Sampled points: 2,048
+
+Predictions:
+  Conifer: 189 points (9.2%)
+  Broadleaf: 1859 points (90.8%)
